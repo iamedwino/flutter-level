@@ -15,4 +15,4 @@ Use to indicate the level at which the user is with flutter development
 
 Fell free to copy the code and use it.
 
-![image alt]([image_url](https://github.com/iamedwino/flutter-level/blob/dc500d0b05eb946cfe366edeb35be9f976efc00e/flutter%20level%20image.PNG))
+![image alt](https://github.com/iamedwino/flutter-level/blob/07d70c8dfcdda37902b8e9b109a0d8fd9b724128/flutter%20level%20image.PNG)
